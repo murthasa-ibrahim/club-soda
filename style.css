@@ -1,0 +1,80 @@
+.btn{
+    background-color: #e30a5e;
+    color: white;
+    border-radius: 8px;
+    height: 3em;
+    width: 15em;
+}
+.container{
+    font-family: 'Merriweather', serif;
+    max-width: 1040px;
+}
+.how-soda{
+    font-weight: 700;
+    line-height: 1.3em;
+    margin: 0.8em 0 0.8em 0em;
+    font-family: 'Archivo', sans-serif;
+    color: #222;
+}
+.dis{
+    font-family: 'Merriweather', serif;
+    font-size: 14px;
+    color: #756F84;
+    line-height: 1.8em;
+    font-weight: 100;
+}
+.footer{
+    background-color: #465f63;
+    color: white;
+}
+.icons{
+    padding-top: 4em;
+   
+    
+}
+.btn1{
+    background-color: #e30a5e;
+    color: white;
+    border-radius: 8px;
+    height: 3em;
+    width: 25em;
+    
+}
+.icn{
+    padding-left: 1em;
+    
+    
+}
+.footer{
+    font-family: 'Merriweather', serif;
+    font-size: 17px;
+    line-height: 1.8em;
+    
+}
+.w3-sidebar{
+    font-family: 'Merriweather', serif;
+    line-height: 1.8em;
+    font-weight: 100;
+    color: #e30a5e;
+    font-size: 20px;
+
+}
+.sidebtn{
+    background-color: white;
+    border: none;
+}
+.inspiration{
+    background-color: #e0e0e0;
+}
+.card-text{
+    font-family: 'Merriweather', serif;
+    color: #756F84;
+    overflow-wrap: break-word;
+    margin: 0.5em 0;
+    display: block;
+    font-size: 20px;
+    line-height: 1.8em;
+    font-weight: 100;
+
+}
+
